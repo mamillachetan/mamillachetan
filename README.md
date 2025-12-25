@@ -40,8 +40,8 @@ I’m constantly learning, experimenting, and building projects to sharpen my te
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** [Your GitHub Profile Link]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **GitHub:** [[(https://github.com/mamillachetan)]
+- **LinkedIn:** [https://www.linkedin.com/in/chetan-kumar-a1b673258/]
 
 ---
 
